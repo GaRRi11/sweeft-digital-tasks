@@ -1,3 +1,3 @@
 # sweet-digital-tasks
 
-Tasks of sweet digital intern
+Tasks of sweeft digital intern
